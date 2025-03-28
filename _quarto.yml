@@ -1,0 +1,60 @@
+project:
+  type: book
+
+
+book:
+  title: "MITA 4.0 Demo"
+  output-file: "MITADemo"
+  search: true
+  
+  chapters:
+    - part:  Welcome
+      chapters:
+      - text: Introduction to MITA 4.0
+        file: index.qmd
+      - text: MITA Quick Reference Guide
+        file: mitaQuickRefGuide.qmd
+      - text: MITA Capability Model
+        file: capabilityModel.qmd       
+    - text: "---"
+    - part: Business Architecture
+      chapters:
+      - text: Business Architecture Introduction
+        file: 2-1BusinessArchitectureIntroduction.qmd
+      - text: Concept of Operations
+        file: conops.qmd
+      - text: MITA Maturity Model
+        file: maturityModel.qmd
+      - text: Business Process Model
+        file: businessProcessModel.qmd
+
+    - text: "---"
+    - part: Information Architecture
+    - text: "---"  
+    - part: Technical Architecture
+    - text: "---"
+    - part: Artifacts and References
+
+
+  navbar:
+    background: "#015493"
+    right:
+      - text: v1
+
+  page-footer: "© 2025 [The MITRE Corporation](mailto:jirving@mitre.org) / For Internal Use Only"
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+    css: styles.css
+    toc: true
+number-sections: false
+  
+
+output-dir: public
+

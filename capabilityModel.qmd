@@ -1,0 +1,82 @@
+# MITA Capability Model
+
+## Introduction to the MITA Capability Model
+
+### Introduction
+
+In business architecture, a "capability" is a key concept that represents what an organization can achieve. Think of a capability as the set of skills and resources a musician needs to perform a symphony. Just like a musician requires sheet music, instruments, and practice, an organization needs specific capabilities to deliver its services effectively.
+
+The idea of a capability comes from the [TOGAF Standard](https://pubs.opengroup.org/togaf-standard/), a well-known standard in enterprise architecture. TOGAF defines a capability as something a business can do or aims to develop to meet its goals. This focuses on "what" a business can achieve, rather than "how" it does it.
+
+For State Medicaid Agencies (SMAs), using MITA 4.0 Framework understanding its Capability Model is important. This model provides a structured way to identify and improve the capabilities needed for efficient Medicaid operations. By focusing on capabilities, SMAs can better align their resources and processes with strategic goals, ultimately improving their insight into their Medicaid Enterprize Architecture.  
+
+**Purpose and Update to MITA 3.0**
+
+To build the MITA 4.0 NextGen Business Architecture and show its relationship to the Information and Technical architectures, we suggest focusing on two to three core components: Business Capabilities (the What), Business Processes (the How), and possibly, Value Streams (the Why). MITA 3.0 mainly focused on business processes through its Business Process Model (BPM). Business capabilities and value streams will be new and need development and definition to be useful in MITA 4.0.
+
+MITA 3.0 included a version of business capabilities that was different from other major architecture frameworks. Instead of being a separate component, MITA 3.0 defined capabilities through a matrix of processes and maturity (i.e., a capability was seen as a business process at a specific level of maturity). This required MITA 3.0 users to evaluate the maturity of a large set of  Based on recommendations to change the BPM, we propose aligning MITA 4.0 business architecture more closely with other more widely used models where capabilities are separate but related components. To guide this change, we propose the following definition/description of business capabilities, based on the TOGAF definition and paraphrased below.
+
+By adopting this refined approach to capabilities, SMAs can streamline their operations and be better prepared to adapt to future challenges and opportunities in the healthcare landscape.
+
+
+### Key Components of a MITA Capability
+
+**The MITA Definition of a Capability**
+Business capabilities are high-level, broad concepts that focus on what the business does, rather than how it operates. Examples include care management or policy development. This perspective allows for business planning from different viewpoints, facilitating strategic alignment and operational efficiency.
+
+Within the context of MITA, a "capability" is defined as the ability or capacity of a State Medicaid Agency (SMA) to achieve a specific desired outcome. A capability may currently exist in an operational state or be envisioned for future development. Through careful planning, capabilities can be matured and refined over time to become more effective and efficient. They can be organized and detailed at various levels of abstraction, providing precise descriptions for operational purposes or more generalized views for strategic planning.
+
+To fully define a business capability, it is essential to understand how it is realized through the integration of people, processes, information, and resources. While these elements can change regularly, the capability itself is designed to endure over longer planning horizons, supporting the achievement of increasingly ambitious outcomes.
+
+![](media/capabilityModel/topLevelCapabilityMetamodelGraphic.png)
+
+  - **Business Roles**
+    Business roles represent individual actors, stakeholders, or partners involved in delivering a business capability. A single organizational group or team may be wholly responsible for delivering the capability, or multiple business entities may share the delivery of a particular business capability.  Business Roles perform Business Processes using Technology Resources.
+  - **Business Processes**
+    Individual business capabilities may be enabled or delivered through a range of business processes that detail the activities (the how) associated with delivering the capability. Identifying and analyzing the efficiency of the underlying processes helps to optimize the business capability’s effectiveness. Identifying the processes within a business capability provides a focus for maturing the capability in concert with the other capability components. Business Processes operationalize Business Capabilities.
+  - **Information/Data**
+    Information/data represents the business data, knowledge, and insight required or consumed by the business capability (as distinct from IT-related data entities). It may also include information that the capability exchanges with other capabilities to support the execution of value streams. Examples include information about customers and prospects, products and services, business policies and rules, sales reports, and performance metrics. Information/data inform the Business Capability, answering questions and supporting business rules.
+  - **Technology Resources**
+    Business capabilities rely on a range of tools, applications, systems, and services for successful execution. Technology Resources use Information/data to facilitate Business Processes. Such resources may include:
+      - Modular software applications 
+      - Cloud or on-premise infrastructure
+      - Microservices
+      - Analytics 
+      - Customer portal
+
+
+## Transitioning to the MITA Capability Model
+- **A. Key Changes and Enhancements**
+  - Overview of enhancements in the capability model from previous versions
+  - Introduction of new capabilities in the latest framework
+
+- **B. Implementation Guidance**
+  - Steps for adopting the capability model
+  - Resources and support available for SMAs
+
+## III. Structure of the MITA Capability Model
+- **A. Levels of Maturity**
+  - Description of the five levels of maturity in the MITA framework
+  - How capabilities evolve and mature over time
+
+- **B. Capability Mapping**
+  - Introduction to capability mapping and its significance
+  - How capabilities are organized and detailed at various levels of abstraction
+
+## IV. Benefits of the MITA Capability Model
+- **A. Strategic Planning and Improvement**
+  - How the capability model aids in aligning capabilities with Medicaid Enterprise goals
+  - Examples of improvements in efficiency and effectiveness
+
+- **B. Performance Monitoring and Reporting**
+  - Role of the capability model in tracking and enhancing performance
+  - Use of metrics and standards to measure capability effectiveness
+
+## V. Guidance on Using the MITA Capability Model
+- **A. Practical Application**
+  - How to integrate the capability model into daily operations and strategic planning
+  - Tips for maximizing the benefits of the model
+
+- **B. Continuous Improvement**
+  - Encouragement for ongoing assessment and refinement of capabilities
+  - Leveraging feedback and performance data for model enhancement
