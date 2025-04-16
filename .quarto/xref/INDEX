@@ -1,0 +1,51 @@
+{
+  "index.qmd": {
+    "index.html": "ffd8a8ac"
+  },
+  "Conops.qmd": {
+    "Conops.html": "941bb2ce"
+  },
+  "intro.qmd": {
+    "intro.html": "2ed14e1a"
+  },
+  "Business Architecture Introduction.qmd": {
+    "Business Architecture Introduction.html": "1b8b011c"
+  },
+  "Maturity Model.qmd": {
+    "Maturity Model.html": "9a690f7a"
+  },
+  "Business Process Model.qmd": {
+    "Business Process Model.html": "25a00360"
+  },
+  "Business Capability Model.qmd": {
+    "Business Capability Model.html": "71b67fde"
+  },
+  "2-1Business-Architecture-Introduction.qmd": {
+    "2-1Business-Architecture-Introduction.html": "0e24b22b"
+  },
+  "2-1BusinessArchitectureIntroduction.qmd": {
+    "2-1BusinessArchitectureIntroduction.html": "f530fdb9"
+  },
+  "maturityModel.qmd": {
+    "maturityModel.html": "666616e5"
+  },
+  "businessProcessModel.qmd": {
+    "businessProcessModel.html": "fb7f47fa"
+  },
+  "businessCapabilityModel.qmd": {
+    "businessCapabilityModel.html": "f1444e02"
+  },
+  "mitaQuickRefGuide.qmd": {
+    "mitaQuickRefGuide.html": "5eaf18cb"
+  },
+  "CapabilityModel.qmd": {
+    "CapabilityModel.html": "5ae85c65"
+  },
+  "capabilityModel.qmd": {
+    "capabilityModel.html": "4bbe6079"
+  },
+  "conops.qmd": {
+    "Conops.html": "34dd8efe",
+    "conops.html": "9d48ce47"
+  }
+}
