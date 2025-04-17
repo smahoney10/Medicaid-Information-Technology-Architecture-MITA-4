@@ -1,0 +1,35 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MITA 4.0 Demo",
+    "section": "",
+    "text": "Welcome to the MITA 4.0 Framework\nThe Medicaid IT Architecture (MITA) is an initiative by the Centers for Medicare & Medicaid Services (CMS) in partnership with State Medicaid Agencies (SMAs) and Medicaid systems vendors. It aims to establish national guidance and best practice references for processes, data standards, and technologies that enhance program administration for State Medicaid Enterprises. Building upon the foundation of previous versions, MITA 4.0 supports the Medicaid mission and goals by facilitating integrated business and information technology transformations. This version refines, refocuses, and repurposes MITA to better align with the evolving needs of SMAs.\nMITA 4.0 introduces several new approaches to enhance its relevance and accessibility, with the goal of making it more meaningful for stakeholders while streamlining processes to reduce the burden on state agencies. The framework incorporates various state agency viewpoints to improve efficiency and better align with the Advanced Planning Document process, certification outcomes, and state agency acquisition processes. Additionally, MITA 4.0 provides guidance that reflects current healthcare and IT trends, ensuring that it remains at the forefront of technological advancements.\nBy focusing on these enhancements, MITA 4.0 ensures that technology decisions align with Medicaid business needs, optimizing adaptability, flexibility, interoperability, and data sharing. This evolution enables significant improvements in policy, decision-making, and daily operations, ultimately advancing the capabilities of State Medicaid Enterprises.",
+    "crumbs": [
+      "Welcome",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to MITA 4.0</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#mita-4.0-principles",
+    "href": "index.html#mita-4.0-principles",
+    "title": "MITA 4.0 Demo",
+    "section": "MITA 4.0 Principles",
+    "text": "MITA 4.0 Principles\nDuring the development of MITA 4.0, workgroup participants identified a set of core principles designed to make MITA more meaningful and accessible to SMAs. These principles ensure that MITA 4.0 remains a relevant and valuable tool for State Medicaid Agencies and their stakeholders.\nBusiness-Driven Transformation: Define business transformations with a focus on aligning IT solutions with both common and unique state needs. This principle ensures that technology initiatives are directly informed by business objectives, leading to more effective and tailored solutions.\nStandards First: Promote data and technical standards to improve IT development cost-effectiveness. By prioritizing standards, we aim to streamline processes and reduce complexity, ultimately enhancing interoperability and efficiency.\nDefine Clear Linkages Between Capabilities and Outcomes: Establish clear definitions for both MITA Capabilities and Outcomes, and articulate the relationship between them and the MITA architectures. This principle ensures that every capability is directly aligned with desired outcomes, linking strategic objectives with operational execution in a coherent framework.\nReduce Burden on SMAs: Simplify processes and requirements to alleviate the administrative load on State Medicaid Agencies, enabling them to focus more on service delivery and less on compliance.\nEnable Automation: Encourage the adoption of automated processes to increase efficiency and accuracy in Medicaid operations, reducing manual intervention and the potential for errors.\nRelease Guidance Aligned with Current Trends: Provide guidance that reflects the latest trends in healthcare and IT, ensuring that MITA 4.0 remains relevant and forward-looking in its approach to Medicaid management.\nIntegrate with Other Activities: Enhance the integration of MITA with related activities such as APD development, Certification, T-MSIS reporting, and state procurement processes. This principle aims to create a cohesive framework that supports comprehensive Medicaid management and aligns with broader state and federal initiatives.\nTransition to a Web-Enabled Presentation: Move from the static, PDF-based MITA 3.0 to a dynamic, web-enabled format. This principle facilitates easier maintenance and continuous improvement by the community, allowing for real-time updates and enabling stakeholders to access the most current information. By fostering a collaborative environment, we encourage the sharing of insights and innovations, making MITA a more robust and adaptable framework for all users.\nThese principles are foundational to the development and implementation of MITA 4.0, ensuring it effectively supports the evolving needs of Medicaid operations.",
+    "crumbs": [
+      "Welcome",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to MITA 4.0</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#concepts",
+    "href": "index.html#concepts",
+    "title": "MITA 4.0 Demo",
+    "section": "Concepts",
+    "text": "Concepts\n\nOutcomes: Define what SMAs aim to achieve through the implementation of MITA.\nBusiness Process Model: Define common business processes for the Medicaid Enterprise.\nMaturity Model: Illustrate the maturation of Medicaid operations over time.\nCapability Matrices: Align business, information, and technical capabilities with the Maturity Model.\nState Self-Assessment (SS-A): Represent current and future business, information, and technical capabilities.\n\nMITA 4.0 ensures that technology decisions align with Medicaid business needs, optimizing adaptability, flexibility, interoperability, and data sharing. This evolution enables significant improvements in policy, decision-making, and daily operations. Explore the MITA 4.0 Framework to advance your State Medicaid Enterprise.",
+    "crumbs": [
+      "Welcome",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction to MITA 4.0</span>"
+    ]
+  }
+]
