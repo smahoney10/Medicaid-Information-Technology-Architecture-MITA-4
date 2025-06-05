@@ -369,11 +369,38 @@ ul.task-list li input[type="checkbox"] {
   <p>MITA helps the federal government by streamlining how CMS reviews state Medicaid IT plans, aligning with national health goals and making better use of resources. MITA enhances coordination across agencies to improve processes, inform decisions, and lower costs for developing systems.</p>
 </section>
   <br>
+
   <section id="How is MITA 4.0 Different?" class="level1">
 <h1>How is MITA 4.0 Different?</h1>
-  <p>MITA 4.0 builds on earlier versions to support Medicaid’s mission by helping states modernize their business processes and technology systems. This version updates and refines the framework to better meet the changing needs of State Medicaid Agencies.</p>
-  <p>MITA 4.0 introduces new strategies to make the framework more useful and accessible for stakeholders, while streamlining processes to reduce the workload for state agencies. It incorporates feedback from state agencies to improve efficiency and better align with key processes like submitting an Advanced Planning Document, certification outcomes, and state’s procurement processes. It also provides guidance that reflects current trends in healthcare and technology, ensuring it stays at the forefront of the latest technological advancements. By focusing on these improvements, MITA 4.0 ensures that technology decisions are closely tied to Medicaid’s business goals. It emphasizes adaptability, flexibility, interoperability, and data sharing, which help states improve policies, make better decisions, and streamline daily operations. Ultimately, this version strengthens the capabilities of State Medicaid Enterprises. </p> 
-  </section>
+  <p>MITA 4.0 builds on MITA 3.0 to support Medicaid’s mission by helping states modernize their business processes and technology systems to improve the administration of their Medicaid programs. MITA 4.0 evolves and refines the MITA framework to better meet the changing needs of State Medicaid Agencies.</p>
+ <style>
+    img {
+      cursor: pointer;
+      width: 500px; /* Adjust the size as needed */
+      height: auto;
+    }
+  </style>
+<body>
+  <p>Click the image below to learn more</p>
+  <img id="switchableImage" src="media/MITADif1.svg" alt="Image 1">
+
+  <script>
+    // JavaScript to handle the image switching
+    const imageElement = document.getElementById('switchableImage');
+    const image1 = 'media/MITADif1.svg'; // Path to the first image
+    const image2 = 'media/MITADif2.svg'; // Path to the second image
+
+    imageElement.addEventListener('click', () => {
+      // Check the current image source and toggle between the two images
+      if (imageElement.src.includes(image1)) {
+        imageElement.src = image2;
+      } else {
+        imageElement.src = image1;
+      }
+    });
+  </script>
+</body>
+   </section>
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
